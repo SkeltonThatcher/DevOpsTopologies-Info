@@ -1,5 +1,7 @@
-DevOpsTopologies
-================
+DevOpsTopologies Info
+=====================
+
+> **See http://devopstopologies.com/ for the definitive resources on DevOps Topologies.**
 
 A catalogue of various team topologies present in organisations attempting to adopt or sustain a DevOps approach to building and operating software systems. 
 
